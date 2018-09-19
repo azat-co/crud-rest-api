@@ -1,0 +1,18 @@
+{
+  "name": "crud-rest-api",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Azat Mardan (http://azat.co/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.3",
+    "mongodb": "2.2.36",
+    "morgan": "1.9.1"
+  }
+}
